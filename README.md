@@ -48,6 +48,6 @@
 - [这样你都不懂Promise,算我输！](https://mp.weixin.qq.com/s?__biz=MzUyNTg3MzI4Mw==&mid=2247483687&idx=1&sn=5542f493b9e613d3975725b71f519481&chksm=fa1638cbcd61b1dd49c6938f12570527be9e08807b1a52137ea1357059ae5fe75e9b9d25c674&token=894463247&lang=zh_CN#rd)
 
 
-扫码关注，第一时间接收更多精彩文章:smirk:   
+扫码关注，第一时间接收更多精彩文章:   
 <a name="公众号"></a>
 ![公众号](https://shengge520.github.io/images/zgh.jpg)
