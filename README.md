@@ -50,4 +50,4 @@
 
 扫码关注，第一时间接收更多精彩文章:smirk:   
 <a name="公众号"></a>
-![公众号](./fullStack.jpg)
+![公众号](https://shengge520.github.io/images/zgh.jpg)
